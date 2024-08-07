@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Zero-GAgency/Zero-G/blob/main/assets/Logo-NoBackgraunds.png?raw=true" alt="Zero-G Logo" width="300"/>
+  <img src="https://github.com/Zero-GAgency/Zero-G/blob/main/assets/Logo-Black.png?raw=true" alt="Zero-G Logo" width="300"/>
 </div>
 
 # 🚀 Zero-G: Defy Gravity, Embrace AI 🧠
