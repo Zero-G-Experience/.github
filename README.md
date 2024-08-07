@@ -38,6 +38,7 @@ cd Zero-G
 # Explore the AI cosmos
 zero-g explore```
 
+# Explore Us
 🌠 Join Our Constellation
 Contribute to the Zero-G mission:
 
@@ -56,4 +57,3 @@ Contribute to the Zero-G mission:
 <div align="center">
   <img src="https://github.com/Zero-GAgency/Zero-G/blob/main/assets/footerbanner.png?raw=true" alt="Zero-G Footer" width="100%"/>
 </div>
-Cop
